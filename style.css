@@ -38,12 +38,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 /* Sizes */
 
-.bloc-lg{
-	padding:100px 50px;
-}
-.bloc-md{
-	padding:50px;
-}
 .bloc-sm{
 	padding:20px 50px;
 }
@@ -571,6 +565,25 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.h1-links-style{
 		font-size:46px;
 	}
+	.btn-style{
+		margin-top:0px;
+	}
+	.btn-check-style{
+		margin-right:31px;
+		width:38.95%;
+	}
+	.btn-this-way-👈-style{
+		width:26.04%;
+	}
+	.btn-more-infos-style{
+		width:26.04%;
+	}
+	.btn-here-✅-style{
+		width:26.04%;
+	}
+	.btn-availabe-soon--style{
+		width:26.04%;
+	}
 	
 }
 
@@ -583,6 +596,24 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.row-margin-top{
 		margin-right:0px;
+	}
+	.btn-style{
+		width:47.98%;
+	}
+	.form-style{
+		width:100%;
+	}
+	.btn-this-way-👈-style{
+		width:33.46%;
+	}
+	.btn-here-✅-style{
+		width:33.46%;
+	}
+	.btn-more-infos-style{
+		width:33.46%;
+	}
+	.btn-availabe-soon--style{
+		width:33.46%;
 	}
 	
 }
@@ -680,6 +711,26 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.h5-style{
 		font-size:16px;
+	}
+	.btn-check-style{
+		width:57.78%;
+		margin-left:0px;
+		margin-right:0px;
+	}
+	.h1-contact-me-😉-style{
+		font-size:27px;
+	}
+	.btn-this-way-👈-style{
+		width:64.07%;
+	}
+	.btn-availabe-soon--style{
+		width:64.81%;
+	}
+	.btn-more-infos-style{
+		width:62.96%;
+	}
+	.btn-here-✅-style{
+		width:64.44%;
 	}
 	
 }
